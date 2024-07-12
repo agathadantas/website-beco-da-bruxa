@@ -1,6 +1,6 @@
 # O Beco da Bruxa - Site da Hamburgueria
 
-![Logo de O Beco da Bruxa](logo.png)
+![Logo de O Beco da Bruxa](images/logo.png)
 
 Este repositório contém o código-fonte do site da hamburgueria "O Beco da Bruxa", inspirada no universo de Harry Potter, localizada em Braga, Portugal.
 
