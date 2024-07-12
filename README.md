@@ -34,12 +34,21 @@ A estrutura do projeto é organizada da seguinte maneira:
 
 Copiar código
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── images/
+
 │   ├── foto1.jpg
+
 │   ├── foto2.jpg
+
 │   ├── foto3.jpg
+
 │   ├── foto4.jpg
+
 │   └── foto5.jpg
+
 └── README.md
