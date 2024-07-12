@@ -32,6 +32,8 @@ O site foi desenvolvido para fornecer informações sobre a hamburgueria, seu me
 ## Estrutura do Projeto
 A estrutura do projeto é organizada da seguinte maneira:
 
+```
+
 ├── index.html
 ├── style.css
 ├── script.js
@@ -43,3 +45,4 @@ A estrutura do projeto é organizada da seguinte maneira:
 │ └── foto5.jpg
 └── README.md
 
+```
